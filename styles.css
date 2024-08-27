@@ -1,1 +1,7 @@
 /* css styles */
+
+
+#coverimage{
+    background-size: cover;
+    background-image: url('images/mountains-4343542_1280.jpg');
+}

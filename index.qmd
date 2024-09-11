@@ -2,4 +2,15 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Sollicitudin eu tincidunt v
 
 Mauris sollicitudin imperdiet varius auctor pellentesque et suspendisse. Primis duis feugiat nullam; auctor commodo morbi. Sit laoreet adipiscing phasellus mi tempus habitasse. Vitae ad suscipit fusce mauris natoque etiam malesuada nunc montes. In dis venenatis ornare viverra velit sem. Tortor parturient fringilla facilisi magna mattis libero eu quisque mus. Imperdiet nascetur blandit suscipit est penatibus ultrices luctus nisi. Venenatis orci felis rutrum egestas ultrices commodo urna inceptos.
 
-Eu facilisis ad mauris aliquam dictum imperdiet. Eros convallis lacus feugiat sociosqu eget ultricies interdum. Lectus sollicitudin tortor eu litora duis, accumsan eget iaculis. Lorem curabitur sagittis fermentum turpis facilisis tellus quis. Donec turpis curae fringilla dictum urna posuere gravida orci habitasse? Tincidunt luctus senectus justo venenatis euismod molestie ac varius. Laoreet suspendisse id mus facilisi per id pharetra interdum.
+
+
+::::{.column-page}
+
+<div id="coverimage">
+<img src="images/mountains-4343542_1280.jpg"></img>
+</div>
+
+
+
+::::
+

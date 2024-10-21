@@ -33,4 +33,3 @@ Dieses «Dashboard» visualisiert Daten aus Wiederholungsaufnahmen («Resurveys�
 
 **Datenquellen:** Bislang verschiedene Forschungsprojekte und Abschlussarbeiten der Forschungsgruppe Vegetationsökologie; andere Forschende, die ihre Zeitreihen für vegetation.ch zur Verfügung stellen wollen, sind herzlich willkommen.
 
-p { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }p.western { so-language: en-GB }a:link { color: #0563c1; text-decoration: underline }

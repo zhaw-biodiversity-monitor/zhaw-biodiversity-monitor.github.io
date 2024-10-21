@@ -1,9 +1,0 @@
-
-:::{.column-screen}
-
- <iframe src="https://ratnanil.shinyapps.io/shiny-species-richness/" title="Species Richness" style="width: 100%; height: 80vh">
- 
- 
- </iframe> 
-
-:::

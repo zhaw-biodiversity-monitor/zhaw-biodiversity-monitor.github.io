@@ -1,24 +1,27 @@
 project:
   type: website
 
+lang: de-CH
+
 website:
   title: "Vegetation der Schweiz"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: Biodiverstiy-Explorer.qmd
-        text: "Biodiversity-Explorer"
-      - href: resurvey.qmd
+      - href: grasland.qmd
+        text: "Grasland"
+      - href: zeitreihen.qmd
         text: "Zeitreihen"
 
-lang: de-CH
+
 
 format:
   html:
     theme: minty
     css: styles.css
     toc: true
+    email-obfuscation: javascript
 
 
 

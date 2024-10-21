@@ -1,0 +1,36 @@
+
+
+
+
+
+
+:::{.column-screen}
+
+ <!-- <iframe src="https://ratnanil.shinyapps.io/shiny-resurvey/" title="Species Richness" style="width: 100%; height: 80vh"> -->
+
+
+ <!-- </iframe>  -->
+
+
+:::
+
+
+::::{#wip}
+:::{.callout-warning}
+
+## Dashboard in Arbeit
+
+An diesem Dashboard wird noch gearbeitet. Eine erste Version wird bald online geschaltet. Wir bitten um Geduld. 
+
+
+
+:::
+::::
+
+Dieses «Dashboard» visualisiert Daten aus Wiederholungsaufnahmen («Resurveys») von Vegetation, d.h. Erhebungen der gleichen Flächen mit den gleichen Methoden in mindestens zwei verschiedenen Jahren. Es kann sich dabei einerseits um Dauerflächen handeln, die im Gelände permanent markiert sind (z.B. Pflöcke, Magnete) und daher exakt reproduziert werden können oder um sogenannte quasi-permanente Flächen, wo die jüngere Aufnahme etwa anhand von Kartenskizzen oder textlichen Beschreibungen ungefähr an der gleichen Stelle im Gelände platziert wurde. Die hier visualisierten «Resurveys» stammen aus diversen Einzelstudien unterschiedlicher Lebensräume in verschiedenen Regionen, sie nutzen unterschiedliche Flächengrössen und sie decken verschiedene Zeiträume ab. Es ist jeweils die Veränderung der Zielvariable über die Zeit dargestellt, ausgedrückt als jährliche Veränderung unter Annahme eines linearen Trends zwischen zwei Aufnahmezeitpunkten. Mittlere Zeigerwerte und Strategietypen sind so gut vergleichbar. Da Artenzahlen stark vom Vegetationstyp und der Aufnahmefläche abhängen sollten die Trends in den absoluten nur innerhalb eines Projektes analysiert werden. Möchte man über verschiedene Projekte hinweg die Trends im Artenreichtum vergleichen, bietet sich der relative Artenreichtum an, d.h. der Artenreichtum im Beobachtungsjahr / Artenreichtum im Startjahr der Zeitreihe.
+
+**Hinweise**: In den Karten sind Mittelwerte dargestellt, die umso zuverlässiger sind, auf je mehr Einzelwerten sie beruhen (angedeutet durch die Intensität des Farbtons und angezeigt, wenn man mit der Maus über die Fläche fährt). **Die sich visuell abzeichnenden Muster geben einen ersten Eindruck; es bedarf jedoch eines statistischen Tests, um herauszufinden, ob sie signifikant sind.**
+
+**Datenquellen:** Bislang verschiedene Forschungsprojekte und Abschlussarbeiten der Forschungsgruppe Vegetationsökologie; andere Forschende, die ihre Zeitreihen für vegetation.ch zur Verfügung stellen wollen, sind herzlich willkommen.
+
+p { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }p.western { so-language: en-GB }a:link { color: #0563c1; text-decoration: underline }

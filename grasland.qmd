@@ -1,0 +1,15 @@
+
+:::{.column-screen}
+
+ <iframe src="https://ratnanil.shinyapps.io/shiny-species-richness/" title="Species Richness" style="width: 100%; height: 80vh">
+ 
+ 
+ </iframe> 
+
+:::
+
+Die dargestellten Daten basieren auf dem aktuellen Durchgang des Schweizer Biodiversitätsmonitoring BDM. Dazu werden von professionellen Botaniker:innen 10 m^2^ grosse, runde Untersuchungsflächen erhoben. Die Flächen sind mit einem vergrabenen starken Magneten dauerhaft markiert, so dass sie alle 5 Jahre wieder erhoben werden können. Sie liegen auf einem systematischen Raster über das ganze Land und sind in ihrer Gesamtheit repräsentativ für die Biodiversitätssituation in der Schweiz. Hier dargestellt sind die Grünlandflächen unter den BDM-Flächen, d.h. die zwei BDM-Landnutzungskategorien «Grasland» und «Sömmerungsgebiete».
+
+**Hinweise**: In den Karten sind Mittelwerte dargestellt, die umso zuverlässiger sind, auf je mehr Einzelwerten sie beruhen (angedeutet durch die Intensität des Farbtons und angezeigt, wenn man mit der Maus über die Fläche fährt). **Die sich visuell abzeichnenden Muster geben einen ersten Eindruck; es bedarf jedoch eines statistischen Tests, um herauszufinden, ob sie signifikant sind.**
+
+**Datenquelle:** BDM im Auftrag des BAFU, Hintermann & Weber AG, Datennutzungsvertrag 1850.

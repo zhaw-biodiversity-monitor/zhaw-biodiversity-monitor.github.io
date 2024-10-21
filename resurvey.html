@@ -94,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./Biodiverstiy-Explorer.html"> 
-<span class="menu-text">Biodiversity-Explorer</span></a>
+<span class="menu-text">Grasland</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./resurvey.html" aria-current="page"> 
@@ -124,6 +124,9 @@ ul.task-list li input[type="checkbox"] {
 <p><iframe src="https://ratnanil.shinyapps.io/shiny-resurvey/" title="Species Richness" style="width: 100%; height: 80vh"></p>
 <p></iframe></p>
 </div>
+<p>Die dargestellten Daten basieren auf dem aktuellen Durchgang des Schweizer Biodiversitätsmonitoring BDM. Dazu werden von professionellen Botaniker:innen 10 m<sup>2</sup> grosse, runde Untersuchungsflächen erhoben. Die Flächen sind mit einem vergrabenen starken Magneten dauerhaft markiert, so dass sie alle 5 Jahre wieder erhoben werden können. Sie liegen auf einem systematischen Raster über das ganze Land und sind in ihrer Gesamtheit repräsentativ für die Biodiversitätssituation in der Schweiz. Hier dargestellt sind die Grünlandflächen unter den BDM-Flächen, d.h. die zwei BDM-Landnutzungskategorien «Grasland» und «Sömmerungsgebiete».</p>
+<p><strong>Hinweise</strong>: In den Karten sind Mittelwerte dargestellt, die umso zuverlässiger sind, auf je mehr Einzelwerten sie beruhen (angedeutet durch die Intensität des Farbtons und angezeigt, wenn man mit der Maus über die Fläche fährt). <strong>Die sich visuell abzeichnenden Muster geben einen ersten Eindruck; es bedarf jedoch eines statistischen Tests, um herauszufinden, ob sie signifikant sind.</strong></p>
+<p><strong>Datenquelle:</strong> BDM im Auftrag des BAFU, Hintermann &amp; Weber AG, Datennutzungsvertrag 1850.</p>
 
 
 
@@ -220,7 +223,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/zhaw-biodiversity-monitor\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

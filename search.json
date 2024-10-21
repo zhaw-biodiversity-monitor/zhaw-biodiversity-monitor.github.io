@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "resurvey.html",
-    "href": "resurvey.html",
+    "objectID": "grasland.html",
+    "href": "grasland.html",
     "title": "Vegetation der Schweiz",
     "section": "",
-    "text": "&lt;/p&gt;\n&lt;p&gt;"
+    "text": "&lt;/p&gt;\n&lt;p&gt;\n\nDie dargestellten Daten basieren auf dem aktuellen Durchgang des Schweizer Biodiversitätsmonitoring BDM. Dazu werden von professionellen Botaniker:innen 10 m2 grosse, runde Untersuchungsflächen erhoben. Die Flächen sind mit einem vergrabenen starken Magneten dauerhaft markiert, so dass sie alle 5 Jahre wieder erhoben werden können. Sie liegen auf einem systematischen Raster über das ganze Land und sind in ihrer Gesamtheit repräsentativ für die Biodiversitätssituation in der Schweiz. Hier dargestellt sind die Grünlandflächen unter den BDM-Flächen, d.h. die zwei BDM-Landnutzungskategorien «Grasland» und «Sömmerungsgebiete».\nHinweise: In den Karten sind Mittelwerte dargestellt, die umso zuverlässiger sind, auf je mehr Einzelwerten sie beruhen (angedeutet durch die Intensität des Farbtons und angezeigt, wenn man mit der Maus über die Fläche fährt). Die sich visuell abzeichnenden Muster geben einen ersten Eindruck; es bedarf jedoch eines statistischen Tests, um herauszufinden, ob sie signifikant sind.\nDatenquelle: BDM im Auftrag des BAFU, Hintermann & Weber AG, Datennutzungsvertrag 1850."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vegetation der Schweiz",
+    "section": "",
+    "text": "Vegetation der Schweiz ist das interaktive Informationsportal zur Vegetation der Schweiz. Es wird betrieben von der Forschungsgruppe Vegetationsökologie der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) in Zusammenarbeit mit Info Flora und den jeweiligen Datenlieferant:innen. In diesem Sinne ergänzt vegetation.ch die drei Portal zur Gefässpflanzenflora, Moosflora und Flechtenflora der Schweiz.\nVegetation wird mittels sogenannten «Vegetationsaufnahmen» auf definierten Probeflächen von typischerweise 0.1–400 m2 Fläche erfasst. Diese enthalten Informationen zu sämtlichen vorkommenden Gefässpflanzenarten sowie oft auch Moosen und Flechten, ihren Mengenanteilen, sowie vor Ort erhobenen Umweltparametern. Damit ist der Informationsgehalt von Vegetationsaufnahmen erheblich grösser und erlaubt weitergehende Analysen als Beobachtungsdaten von Einzelarten. Zum Beispiel können Biodiversitätsmasse oder mittlere ökologische Zeigerwerteermittelt und ihre Veränderungen in Raum und Zeit analysiert werden.\nDie Schweiz verfügt über einen grossen Schatz von historischen und aktuellen Vegetationsaufnahmen, der bislang nicht in einer zentralen Datenbank verfügbar ist, noch umfassend im Hinblick auf die Biodiversitätsveränderungen und daraus resultierende Strategien zum Schutz der Biodiversität ausgewertet wurde. Das Portal vegetation.ch zielt darauf ab, die relevanten «Stakeholder» im Bereich Vegetation zusammenzubringen, um diesen Schatz zu heben.\nDie Seite befindet sich im Aufbau. Derzeit existieren zwei Unterseiten:\n\nGrasland: Hier kann man die Eigenschaften des Graslands der Schweiz im 21. Jahrhundert erkunden, basierend auf einem repräsentativen Datensatz des nationalen Biodiversitätsmonitorings BDM\nZeitreihen: Hier finden sich Daten von unterschiedlichen Wiederholungsstudien («Resurveys»). Die Seite zeigt, wie sich die Vegetation jeweils über die Jahre verändert hat.\n\nWeitere Unterseiten sind für die Zukunft angedacht, z.B.\n\nQuadratfuss-Projekt: Hier werden sich bald die Daten und Ergebnisse des SNF-Projektes zum Wandel des Graslandes in der Schweiz zwischen 1900 und 2020 visualisieren lassen\nNationale Vegetationsdatenbank der Schweiz: Sobald diese begonnen hat, gibt es auf dieser Seite eine Übersicht der verfügbaren Vegetationsaufnahmen in Zeit und Raum\nVegetationsklassifikation: Hier würden wir gerne Informationen und Tools zu den Vegetationstypen der Schweiz bereitstellen, einschliesslich eines modernen Expertensystems, das die automatische Klassifikation hochgeladener Vegetationsaufnahmen erlaubt\nCitizen Science: Wie Info Flora, wollen wir künftig interessierte Ehrenamtler:innen beim Aufbereiten historischer und beim Erheben neuer Vegetationsdaten einbeziehen.\n\nKünftig sind auch weitere Sprachversionen (Englisch, Französisch, Italienisch) angedacht und ein erweitertes Informationsangebot samt Downloadmöglichkeit von Daten und Publikationen (soweit diese «open access» sind). Bis das so weit ist, bitten wir um Geduld, freuen uns aber über konstruktive Rückmeldungen.\nDie Erstellung von vegetation.ch wurde ermöglicht durch das IUNR-Handlungsfeld «Biodiversitäts Dashboard» und das SNF-Projekt 408240_226738 / 1 “VegChangeCH – A comprehensive picture of anthropogenic changes in the vegetation of Switzerland”.\n\n\nKontakt:\n\n\nProf. Dr. Jürgen Dengler\nForschungsgruppe Vegetationsökologie\nInstitut für Umwelt und natürliche Ressourcen (IUNR)\nZüricher Hochschule für Angewandte Wissenschaften (ZHAW)\nGrüentalstr. 14\n8820 Wädenswil, SCHWEIZ\njuergen.dengler at zhaw dot ch"
+  },
+  {
+    "objectID": "zeitreihen.html",
+    "href": "zeitreihen.html",
+    "title": "Vegetation der Schweiz",
+    "section": "",
+    "text": "Dashboard in Arbeit\n\n\n\nAn diesem Dashboard wird noch gearbeitet. Eine erste Version wird bald online geschaltet. Wir bitten um Geduld.\n\n\n\nDieses «Dashboard» visualisiert Daten aus Wiederholungsaufnahmen («Resurveys») von Vegetation, d.h. Erhebungen der gleichen Flächen mit den gleichen Methoden in mindestens zwei verschiedenen Jahren. Es kann sich dabei einerseits um Dauerflächen handeln, die im Gelände permanent markiert sind (z.B. Pflöcke, Magnete) und daher exakt reproduziert werden können oder um sogenannte quasi-permanente Flächen, wo die jüngere Aufnahme etwa anhand von Kartenskizzen oder textlichen Beschreibungen ungefähr an der gleichen Stelle im Gelände platziert wurde. Die hier visualisierten «Resurveys» stammen aus diversen Einzelstudien unterschiedlicher Lebensräume in verschiedenen Regionen, sie nutzen unterschiedliche Flächengrössen und sie decken verschiedene Zeiträume ab. Es ist jeweils die Veränderung der Zielvariable über die Zeit dargestellt, ausgedrückt als jährliche Veränderung unter Annahme eines linearen Trends zwischen zwei Aufnahmezeitpunkten. Mittlere Zeigerwerte und Strategietypen sind so gut vergleichbar. Da Artenzahlen stark vom Vegetationstyp und der Aufnahmefläche abhängen sollten die Trends in den absoluten nur innerhalb eines Projektes analysiert werden. Möchte man über verschiedene Projekte hinweg die Trends im Artenreichtum vergleichen, bietet sich der relative Artenreichtum an, d.h. der Artenreichtum im Beobachtungsjahr / Artenreichtum im Startjahr der Zeitreihe.\nHinweise: In den Karten sind Mittelwerte dargestellt, die umso zuverlässiger sind, auf je mehr Einzelwerten sie beruhen (angedeutet durch die Intensität des Farbtons und angezeigt, wenn man mit der Maus über die Fläche fährt). Die sich visuell abzeichnenden Muster geben einen ersten Eindruck; es bedarf jedoch eines statistischen Tests, um herauszufinden, ob sie signifikant sind.\nDatenquellen: Bislang verschiedene Forschungsprojekte und Abschlussarbeiten der Forschungsgruppe Vegetationsökologie; andere Forschende, die ihre Zeitreihen für vegetation.ch zur Verfügung stellen wollen, sind herzlich willkommen.\np { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }p.western { so-language: en-GB }a:link { color: #0563c1; text-decoration: underline }"
   },
   {
     "objectID": "images/Readme.html",
@@ -12,19 +26,5 @@
     "title": "Vegetation der Schweiz",
     "section": "",
     "text": "https://pixabay.com/photos/mountains-water-grass-snow-summer-4343542/"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Vegetation der Schweiz",
-    "section": "",
-    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Sollicitudin eu tincidunt vulputate est augue. Convallis pharetra venenatis vestibulum; class inceptos vehicula. Consequat potenti congue sodales finibus donec elementum. Conubia nam ornare urna lacinia purus donec. Habitasse justo ad natoque, vitae accumsan lectus. Sodales montes cursus donec, etiam nullam orci torquent.\nMauris sollicitudin imperdiet varius auctor pellentesque et suspendisse. Primis duis feugiat nullam; auctor commodo morbi. Sit laoreet adipiscing phasellus mi tempus habitasse. Vitae ad suscipit fusce mauris natoque etiam malesuada nunc montes. In dis venenatis ornare viverra velit sem. Tortor parturient fringilla facilisi magna mattis libero eu quisque mus. Imperdiet nascetur blandit suscipit est penatibus ultrices luctus nisi. Venenatis orci felis rutrum egestas ultrices commodo urna inceptos."
-  },
-  {
-    "objectID": "Biodiverstiy-Explorer.html",
-    "href": "Biodiverstiy-Explorer.html",
-    "title": "Vegetation der Schweiz",
-    "section": "",
-    "text": "&lt;/p&gt;\n&lt;p&gt;"
   }
 ]

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zhaw-biodiversity-monitor.github.io/resurvey.html</loc>
-    <lastmod>2024-09-11T21:04:52.519Z</lastmod>
+    <loc>https://zhaw-biodiversity-monitor.github.io/grasland.html</loc>
+    <lastmod>2024-10-21T19:03:48.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zhaw-biodiversity-monitor.github.io/index.html</loc>
+    <lastmod>2024-10-21T19:01:30.814Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zhaw-biodiversity-monitor.github.io/zeitreihen.html</loc>
+    <lastmod>2024-10-21T19:36:40.186Z</lastmod>
   </url>
   <url>
     <loc>https://zhaw-biodiversity-monitor.github.io/images/Readme.html</loc>
     <lastmod>2024-08-27T11:35:16.419Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zhaw-biodiversity-monitor.github.io/index.html</loc>
-    <lastmod>2024-08-27T11:44:34.411Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zhaw-biodiversity-monitor.github.io/Biodiverstiy-Explorer.html</loc>
-    <lastmod>2024-08-27T11:46:38.603Z</lastmod>
   </url>
 </urlset>

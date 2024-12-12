@@ -16,6 +16,7 @@ Vegetation der Schweiz ist das **interaktive Informationsportal zur Vegetation d
 
 Vegetation wird mittels sogenannten **«Vegetationsaufnahmen»** auf definierten Probeflächen von typischerweise 0.1--400 m^2^ Fläche erfasst. Diese enthalten Informationen zu **sämtlichen vorkommenden Gefässpflanzenarten sowie oft auch Moosen und Flechten, ihren Mengenanteilen, sowie vor Ort erhobenen Umweltparametern**. Damit ist der Informationsgehalt von Vegetationsaufnahmen erheblich grösser und erlaubt weitergehende Analysen als Beobachtungsdaten von Einzelarten. Zum Beispiel können Biodiversitätsmasse oder mittlere ökologische Zeigerwerteermittelt und ihre Veränderungen in Raum und Zeit analysiert werden.
 
+
 Die Schweiz verfügt über einen **grossen Schatz von historischen und aktuellen Vegetationsaufnahmen**, der bislang nicht in einer zentralen Datenbank verfügbar ist, noch umfassend im Hinblick auf die Biodiversitätsveränderungen und daraus resultierende Strategien zum **Schutz der Biodiversität** ausgewertet wurde. Das Portal vegetation.ch zielt darauf ab, die relevanten «Stakeholder» im Bereich Vegetation zusammenzubringen, um diesen Schatz zu heben.
 
 Die Seite befindet sich im Aufbau. Derzeit existieren zwei Unterseiten:

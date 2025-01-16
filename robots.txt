@@ -1,1 +1,1 @@
-Sitemap: https://vegetation.ch/sitemap.xml
+Sitemap: https://zhaw-biodiversity-monitor.github.io/sitemap.xml

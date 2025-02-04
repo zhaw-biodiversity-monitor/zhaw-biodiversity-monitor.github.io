@@ -19,7 +19,7 @@ Vegetation wird mittels sogenannten **«Vegetationsaufnahmen»** auf definierten
 
 Die Schweiz verfügt über einen **grossen Schatz von historischen und aktuellen Vegetationsaufnahmen**, der bislang nicht in einer zentralen Datenbank verfügbar ist, noch umfassend im Hinblick auf die Biodiversitätsveränderungen und daraus resultierende Strategien zum **Schutz der Biodiversität** ausgewertet wurde. Das Portal vegetation.ch zielt darauf ab, die relevanten «Stakeholder» im Bereich Vegetation zusammenzubringen, um diesen Schatz zu heben.
 
-Die Seite befindet sich im Aufbau. Derzeit existieren zwei Unterseiten:
+Die Seite befindet sich im Aufbau. Derzeit existieren drei Unterseiten:
 
 -   **Grasland:** Hier kann man die Eigenschaften des Graslands der Schweiz im 21. Jahrhundert erkunden, basierend auf einem repräsentativen Datensatz des nationalen Biodiversitätsmonitorings BDM
 

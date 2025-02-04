@@ -10,12 +10,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: database.qmd
+        text: "Vegetationsdatenbank"
       - href: grasland.qmd
         text: "Grasland"
       - href: zeitreihen.qmd
         text: "Zeitreihen"
-      - href: database.qmd
-        text: "Vegetationsdatenbank"
+
 
 
 format:

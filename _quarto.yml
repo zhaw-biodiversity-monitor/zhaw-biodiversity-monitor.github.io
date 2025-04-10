@@ -1,6 +1,6 @@
 project:
   type: website
-  post-render: echo "vegetation.ch" > _site/CNAME
+    
 
 lang: de-CH
 
@@ -25,6 +25,10 @@ format:
     css: styles.css
     toc: true
     email-obfuscation: javascript
+    # pagetitle: Pflanzendiversität und Vegetation der Schweiz
+    # description-meta: Das Informationsportal vegetation.ch enthält interaktive Dashboards zur nationalen Vegetationsdatenbank, Grasslanddiversität und Zeitreihen von Vegetation
+    pagetitle: Plant diversity and vegetation of Switzerland
+    description-meta: The information portal vegetation.ch contains interactive dashboards on the national vegetation database, grassland diversity and vegetation resurveys
 
 
 

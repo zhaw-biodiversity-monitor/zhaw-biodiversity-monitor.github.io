@@ -17,6 +17,10 @@ website:
       - href: zeitreihen.qmd
         text: "Zeitreihen"
 
+metadata:
+  keywords: Vegetation, Schweiz, Europa, Grasland, Wald, Wiederholungsaufnahme, Vegetations-Datenbank, Vegetationsaufnahme, Vegetationsveränderung, Biodiversität, ökologischer Zeigerwert, historische Daten, Quadratfuss-Projekt, Makroökologie, globaler Wandel, Zeitreihe
+  description-meta: Das Informationsportal vegetation.ch enthält interaktive Dashboards zur nationalen Vegetationsdatenbank, Grasslanddiversität und Zeitreihen von Vegetation
+  pagetitle: Pflanzendiversität und Vegetation der Schweiz 
 
 
 format:

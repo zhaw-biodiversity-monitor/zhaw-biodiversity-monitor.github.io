@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vegetation.ch/database.html</loc>
-    <lastmod>2025-02-04T15:03:37.331Z</lastmod>
+    <loc>https://vegetation.ch/zeitreihen.html</loc>
+    <lastmod>2025-02-04T14:28:05.411Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vegetation.ch/grasland.html</loc>
+    <lastmod>2025-05-27T14:14:25.699Z</lastmod>
   </url>
   <url>
     <loc>https://vegetation.ch/images/Readme.html</loc>
     <lastmod>2024-08-27T11:35:16.419Z</lastmod>
   </url>
   <url>
-    <loc>https://vegetation.ch/zeitreihen.html</loc>
-    <lastmod>2025-02-04T14:28:05.411Z</lastmod>
+    <loc>https://vegetation.ch/squarefoot.html</loc>
+    <lastmod>2026-02-10T15:25:08.563Z</lastmod>
   </url>
   <url>
     <loc>https://vegetation.ch/index.html</loc>
-    <lastmod>2025-05-27T11:41:10.353Z</lastmod>
+    <lastmod>2026-02-10T14:13:31.871Z</lastmod>
   </url>
   <url>
-    <loc>https://vegetation.ch/grasland.html</loc>
-    <lastmod>2025-05-27T14:14:25.699Z</lastmod>
+    <loc>https://vegetation.ch/database.html</loc>
+    <lastmod>2025-02-04T15:03:37.331Z</lastmod>
   </url>
 </urlset>

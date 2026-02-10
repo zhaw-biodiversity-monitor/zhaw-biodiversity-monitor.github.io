@@ -16,7 +16,9 @@ website:
         text: "Grasland"
       - href: zeitreihen.qmd
         text: "Zeitreihen"
-
+      - href: squarefoot.qmd
+        text: "Squarefoot"
+        
 metadata:
   keywords: Vegetation, Schweiz, Europa, Grasland, Wald, Wiederholungsaufnahme, Vegetations-Datenbank, Vegetationsaufnahme, Vegetationsveränderung, Biodiversität, ökologischer Zeigerwert, historische Daten, Quadratfuss-Projekt, Makroökologie, globaler Wandel, Zeitreihe
   description-meta: Das Informationsportal vegetation.ch enthält interaktive Dashboards zur nationalen Vegetationsdatenbank, Grasslanddiversität und Zeitreihen von Vegetation
